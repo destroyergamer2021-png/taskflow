@@ -12,3 +12,9 @@ Entregar um repositório público que demonstre o ciclo de desenvolvimento ágil
 - GitHub Projects: quadro Kanban (A Fazer, Em Progresso, Concluído).
 - GitHub Actions: execute `mvn test` em cada push/PR.
 - Pelo menos 10 commits com mensagens claras.
+
+## A Fazer
+
+- Criar estrutura do projeto (pom.xml, .gitignore) (issue)
+
+- Modelar entidade Task
