@@ -16,5 +16,5 @@ Entregar um repositório público que demonstre o ciclo de desenvolvimento ágil
 ## Como executar localmente
 1. Clone o repositório:
 ```bash
-git clone https://github.com/<seu-usuario>/taskflow.git
+git clone https://github.com/<https://github.com/destroyergamer2021-png/taskflow.git>/taskflow.git
 cd taskflow
