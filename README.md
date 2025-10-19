@@ -12,9 +12,3 @@ Entregar um repositório público que demonstre o ciclo de desenvolvimento ágil
 - GitHub Projects: quadro Kanban (A Fazer, Em Progresso, Concluído).
 - GitHub Actions: execute `mvn test` em cada push/PR.
 - Pelo menos 10 commits com mensagens claras.
-
-## Como executar localmente
-1. Clone o repositório:
-```bash
-git clone https://github.com/<https://github.com/destroyergamer2021-png/taskflow.git>/taskflow.git
-cd taskflow
