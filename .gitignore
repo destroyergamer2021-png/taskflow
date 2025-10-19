@@ -32,7 +32,14 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
+/target
+*.class
+/.mvn
+/.settings
+/.classpath
+/.project
 .vscode/
+*.log
 
 ### Mac OS ###
 .DS_Store
