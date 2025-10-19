@@ -21,3 +21,4 @@ Entregar um repositório público que demonstre o ciclo de desenvolvimento ágil
 - Configurar H2 e application.properties
 - Criar testes automatizados
 - Configurar GitHub Actions (CI)
+- 
