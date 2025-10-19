@@ -18,3 +18,4 @@ Entregar um repositório público que demonstre o ciclo de desenvolvimento ágil
 - Criar estrutura do projeto (pom.xml, .gitignore) (issue)
 - Modelar entidade Task
 - Implementar CRUD básico
+- Configurar H2 e application.properties
